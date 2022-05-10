@@ -3,7 +3,7 @@
 ---------------------------------------------------------------
 
 
-![](images%5Ctaxi-art_crop.jpg)
+![](images/taxi-art_crop.jpg)
 
 
 ## Цель данного Data Science проекта
@@ -57,19 +57,19 @@
 
 **Прогноз на каждый день:** 
 
-![Прогноз на каждый день](images%5Crecommendations_day.jpg)
+![Прогноз на каждый день](images/recommendations_day.jpg)
 
 <br>
 
 **Недельный прогноз с усреднением всех данных:** 
 
-![Недельный прогноз](images%5Crecommendations_week.jpg)
+![Недельный прогноз](images/recommendations_week.jpg)
 
 <br>
 
 **Месячный прогноз с усреднением всех данных:** 
 
-![Месячный прогноз](images%5Crecommendations_month.jpg)
+![Месячный прогноз](images/recommendations_month.jpg)
 
 <br>
 
