@@ -80,7 +80,9 @@ f1_macro:   0.9887
 
 ### О Docker-контейнере
 
-Инструкции по запуску контейнера -- также в [этом репозитории](https://github.com/gravek/my_projects/blob/main/agcalls/Краткая%20документация-инструкция%20по%20запуску%20демо-контейнера%20и%20API.md).
+Основные файлы докер-контенера упакованы [тут](https://github.com/gravek/my_projects/blob/main/agcalls/Dockerfiles%20wo%20models.zip)
+
+Инструкции по запуску контейнера -- также [здесь](https://github.com/gravek/my_projects/blob/main/agcalls/Краткая%20документация-инструкция%20по%20запуску%20демо-контейнера%20и%20API.md).
 
 
 
